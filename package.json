@@ -2,7 +2,7 @@
   "name": "solhint-plugin-oz-contracts-custom",
   "version": "1.0.0",
   "description": "Custom rules for Open Zeppelin Contracts",
-  "main": "index.js",
+  "main": "solhint-plugin-oz-contracts-custom.js",
   "keywords": [
     "solhint",
     "solidity",
