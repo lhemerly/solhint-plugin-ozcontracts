@@ -1,0 +1,13 @@
+{
+  "name": "solhint-plugin-oz-contracts-custom",
+  "version": "1.0.0",
+  "description": "Custom rules for Open Zeppelin Contracts",
+  "main": "index.js",
+  "keywords": [
+    "solhint",
+    "solidity",
+    "open-zeppelin"
+  ],
+  "author": "Luiz Hemerly",
+  "license": "MIT"
+}
