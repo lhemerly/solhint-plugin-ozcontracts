@@ -1,13 +1,17 @@
 {
-  "name": "solhint-plugin-oz-contracts-custom",
-  "version": "1.0.0",
+  "name": "solhint-plugin-ozcontracts",
+  "version": "1.0.2",
   "description": "Custom rules for Open Zeppelin Contracts",
-  "main": "solhint-plugin-oz-contracts-custom.js",
+  "main": "solhint-plugin-ozcontracts.js",
   "keywords": [
     "solhint",
     "solidity",
     "open-zeppelin"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lhemerly/solhint-plugin-oz-contracts-custom.git"
+  },
   "author": "Luiz Hemerly",
   "license": "MIT"
 }
